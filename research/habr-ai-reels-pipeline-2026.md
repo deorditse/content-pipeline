@@ -8,6 +8,8 @@
 - https://habr.com/ru/companies/study_ai/articles/1023800/ — сравнение Veo 3.1, Kling 3.0, Runway, HappyHorse.
 - https://habr.com/ru/companies/era2/articles/1042364/ — топ-7 генераторов видео 2026.
 - https://habr.com/ru/companies/era2/articles/1034794/ — ElevenLabs и аналоги для клонирования/озвучки.
+- https://habr.com/ru/companies/study_ai/articles/1037322/ — русская TTS-озвучка и агрегаторы.
+- https://habr.com/ru/companies/bothub/articles/1081544/ — OpenAI TTS, ElevenLabs Voice и модели озвучки в агрегаторе.
 - https://habr.com/ru/companies/tsnis/articles/1056844/ — гайд по генерации изображений и рейтинг моделей.
 - https://habr.com/ru/companies/tsnis/articles/1060980/ — генерация текста/картинок/видео/музыки в одном месте.
 - https://habr.com/ru/companies/studyai/articles/1085264/ — тесты генераторов изображений.
